@@ -16,7 +16,7 @@ public class Coche {
 	public Coche() {
 		miVelocidad = 0;
 		miDireccionActual = 0;
-		posX = 300;
+		posX = 301;
 		posY = 300;
 	}
 	
